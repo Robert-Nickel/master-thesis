@@ -1,0 +1,66 @@
+\documentclass[german]{htwg-report}
+\usepackage{graphicx,float}
+\usepackage[justification=centering]{caption}
+
+\addbibresource{./bib/report.bib}
+
+\begin{document}
+
+%% Use Roman numerals for the page numbers of the title pages and table of
+%% contents.
+\frontmatter
+
+%% 'reporttype' add background elements to the cover / front page
+%% possible values are:
+%% bachelor	--> B S C
+%% master	--> M S C
+%% other		--> none
+\reporttype{master}
+
+\reporttypetext{Master Thesis}
+
+\title[Skalierung einer Lern-Evaluationsplattform mit Serverless-Technologie]{Skalierung einer Lern-Evaluationsplattform mit Serverless-Technologie}
+
+\author{Robert Nickel}
+\studentnumber{301337}
+\studentemail{htwg@robertnickel.online}
+
+\doclocation{Konstanz}
+\docdate{30. April 2022}
+
+\makecover[]
+%          
+%% Include an optional title page.
+\input{title}
+\input{abstract}
+
+\tableofcontents
+
+%% Use Arabic numerals for the page numbers of the chapters.
+\mainmatter
+
+% \input{chapter-0}
+\input{chapter-1}
+\input{chapter-2}
+\input{chapter-3}
+\input{chapter-4}
+\input{chapter-5}
+\input{chapter-6}
+\input{chapter-7}
+\input{chapter-8}
+\input{chapter-9}
+
+%% Use letters for the chapter numbers of the appendices.
+\appendix
+
+%\input{appendix-a}
+
+\printbibliography[heading=bibintoc]
+
+\input{figures.tex}
+
+\input{thanks}
+\input{ehrenwort}
+
+\end{document}
+

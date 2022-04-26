@@ -1,0 +1,83 @@
+{
+  ".svelte-kit/runtime/client/start.js": {
+    "file": "start-a5ae1ef4.js",
+    "src": ".svelte-kit/runtime/client/start.js",
+    "isEntry": true,
+    "imports": [
+      "_index-13322d17.js",
+      "_paths-fec0c59f.js"
+    ],
+    "dynamicImports": [
+      ".svelte-kit/runtime/components/layout.svelte",
+      ".svelte-kit/runtime/components/error.svelte",
+      "_index-f27e786a.js"
+    ]
+  },
+  ".svelte-kit/runtime/components/layout.svelte": {
+    "file": "layout.svelte-3be52a70.js",
+    "src": ".svelte-kit/runtime/components/layout.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-13322d17.js"
+    ]
+  },
+  ".svelte-kit/runtime/components/error.svelte": {
+    "file": "error.svelte-562ab697.js",
+    "src": ".svelte-kit/runtime/components/error.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-13322d17.js"
+    ]
+  },
+  "src/routes/index.svelte": {
+    "file": "pages/index.svelte-512fc6b9.js",
+    "src": "src/routes/index.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-13322d17.js",
+      "_paths-fec0c59f.js",
+      "_index-f27e786a.js"
+    ]
+  },
+  "_index-13322d17.js": {
+    "file": "chunks/index-13322d17.js"
+  },
+  "_paths-fec0c59f.js": {
+    "file": "chunks/paths-fec0c59f.js",
+    "imports": [
+      "_index-13322d17.js"
+    ]
+  },
+  "_index-f27e786a.js": {
+    "file": "chunks/index-f27e786a.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-13322d17.js",
+      "_paths-fec0c59f.js"
+    ],
+    "dynamicImports": [
+      "node_modules/svelte-pdfjs/PDFViewer/PageInternals/PageCanvas.svelte"
+    ],
+    "css": [
+      "assets/index-6709764e.css"
+    ],
+    "assets": [
+      "assets/pdf.worker.min-38b21047.js"
+    ]
+  },
+  "node_modules/svelte-pdfjs/PDFViewer/PageInternals/PageCanvas.svelte": {
+    "file": "chunks/PageCanvas-68b7b78b.js",
+    "src": "node_modules/svelte-pdfjs/PDFViewer/PageInternals/PageCanvas.svelte",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-13322d17.js",
+      "_index-f27e786a.js",
+      "_paths-fec0c59f.js"
+    ],
+    "css": [
+      "assets/PageCanvas-b4334fd9.css"
+    ]
+  }
+}

@@ -1,0 +1,999 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ynt/global//global/global}
+    \entry{Hewitt1973}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1c0e112479c525f05924aba5fa22ac9d}{%
+           family={Hewitt},
+           familyi={H\bibinitperiod},
+           given={Carl},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Morgan Kaufmann Publishers Inc.}%
+      }
+      \strng{namehash}{1c0e112479c525f05924aba5fa22ac9d}
+      \strng{fullhash}{1c0e112479c525f05924aba5fa22ac9d}
+      \strng{bibnamehash}{1c0e112479c525f05924aba5fa22ac9d}
+      \strng{authorbibnamehash}{1c0e112479c525f05924aba5fa22ac9d}
+      \strng{authornamehash}{1c0e112479c525f05924aba5fa22ac9d}
+      \strng{authorfullhash}{1c0e112479c525f05924aba5fa22ac9d}
+      \field{extraname}{1}
+      \field{labelalpha}{Hew73}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A universal modular ACTOR formalism for artificial intelligence}
+      \field{year}{1973}
+    \endentry
+    \entry{Nonaka1997}{book}{}
+      \name{author}{1}{}{%
+        {{hash=0f7ed3bf5b60651c65190e63e9bd438e}{%
+           family={Nonaka},
+           familyi={N\bibinitperiod},
+           given={Ikujiro/Hirotaka\bibnamedelimb Takeuchi/Friedrich\bibnamedelima Mader},
+           giveni={I\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Campus Verlag}%
+      }
+      \strng{namehash}{0f7ed3bf5b60651c65190e63e9bd438e}
+      \strng{fullhash}{0f7ed3bf5b60651c65190e63e9bd438e}
+      \strng{bibnamehash}{0f7ed3bf5b60651c65190e63e9bd438e}
+      \strng{authorbibnamehash}{0f7ed3bf5b60651c65190e63e9bd438e}
+      \strng{authornamehash}{0f7ed3bf5b60651c65190e63e9bd438e}
+      \strng{authorfullhash}{0f7ed3bf5b60651c65190e63e9bd438e}
+      \field{labelalpha}{Non97}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Die Organisation des Wissens: Wie japanische Unternehmen eine brachliegende Ressource nutzbar machen}
+      \field{year}{1997}
+    \endentry
+    \entry{fielding00}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=87dbbd44b3977c28b71d826a931add3e}{%
+           family={Fielding},
+           familyi={F\bibinitperiod},
+           given={Roy\bibnamedelima Thomas},
+           giveni={R\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of California, Irvine}%
+      }
+      \strng{namehash}{87dbbd44b3977c28b71d826a931add3e}
+      \strng{fullhash}{87dbbd44b3977c28b71d826a931add3e}
+      \strng{bibnamehash}{87dbbd44b3977c28b71d826a931add3e}
+      \strng{authorbibnamehash}{87dbbd44b3977c28b71d826a931add3e}
+      \strng{authornamehash}{87dbbd44b3977c28b71d826a931add3e}
+      \strng{authorfullhash}{87dbbd44b3977c28b71d826a931add3e}
+      \field{labelalpha}{Fie00}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Architectural Styles and the Design of Network-based Software Architectures}
+      \field{type}{phdthesis}
+      \field{year}{2000}
+      \verb{urlraw}
+      \verb https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm
+      \endverb
+      \verb{url}
+      \verb https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm
+      \endverb
+    \endentry
+    \entry{beck2001}{online}{}
+      \name{author}{1}{}{%
+        {{hash=5a1adbe415089024ef1ee9e8a072f590}{%
+           family={Beck},
+           familyi={B\bibinitperiod},
+           given={Kent\bibnamedelimb et\bibnamedelima al.},
+           giveni={K\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim a\bibinitperiod}}}%
+      }
+      \strng{namehash}{5a1adbe415089024ef1ee9e8a072f590}
+      \strng{fullhash}{5a1adbe415089024ef1ee9e8a072f590}
+      \strng{bibnamehash}{5a1adbe415089024ef1ee9e8a072f590}
+      \strng{authorbibnamehash}{5a1adbe415089024ef1ee9e8a072f590}
+      \strng{authornamehash}{5a1adbe415089024ef1ee9e8a072f590}
+      \strng{authorfullhash}{5a1adbe415089024ef1ee9e8a072f590}
+      \field{labelalpha}{Bec01}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Prinzipien hinter dem Agilen Manifest}
+      \field{urlday}{30}
+      \field{urlmonth}{3}
+      \field{urlyear}{2022}
+      \field{year}{2001}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://agilemanifesto.org/iso/de/principles.html
+      \endverb
+      \verb{url}
+      \verb https://agilemanifesto.org/iso/de/principles.html
+      \endverb
+    \endentry
+    \entry{Evans2004}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a8034da9731f447121ee0dbad3354a82}{%
+           family={Evans},
+           familyi={E\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley}%
+      }
+      \strng{namehash}{a8034da9731f447121ee0dbad3354a82}
+      \strng{fullhash}{a8034da9731f447121ee0dbad3354a82}
+      \strng{bibnamehash}{a8034da9731f447121ee0dbad3354a82}
+      \strng{authorbibnamehash}{a8034da9731f447121ee0dbad3354a82}
+      \strng{authornamehash}{a8034da9731f447121ee0dbad3354a82}
+      \strng{authorfullhash}{a8034da9731f447121ee0dbad3354a82}
+      \field{labelalpha}{Eva04}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Domain-driven Design: Tackling Complexity in the Heart of Software}
+      \field{year}{2004}
+    \endentry
+    \entry{Fowler2005}{online}{}
+      \name{author}{1}{}{%
+        {{hash=312ac886938a9b2be4f8eb607567fe4c}{%
+           family={Fowler},
+           familyi={F\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{fullhash}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{bibnamehash}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{authorbibnamehash}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{authornamehash}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{authorfullhash}{312ac886938a9b2be4f8eb607567fe4c}
+      \field{extraname}{1}
+      \field{labelalpha}{Fow05}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Event Sourcing}
+      \field{urlday}{1}
+      \field{urlmonth}{4}
+      \field{urlyear}{2022}
+      \field{year}{2005}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://martinfowler.com/eaaDev/EventSourcing.html
+      \endverb
+      \verb{url}
+      \verb https://martinfowler.com/eaaDev/EventSourcing.html
+      \endverb
+    \endentry
+    \entry{North2006}{online}{}
+      \name{author}{1}{}{%
+        {{hash=26230a2ace0cde36664849662ebf7d53}{%
+           family={North},
+           familyi={N\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{26230a2ace0cde36664849662ebf7d53}
+      \strng{fullhash}{26230a2ace0cde36664849662ebf7d53}
+      \strng{bibnamehash}{26230a2ace0cde36664849662ebf7d53}
+      \strng{authorbibnamehash}{26230a2ace0cde36664849662ebf7d53}
+      \strng{authornamehash}{26230a2ace0cde36664849662ebf7d53}
+      \strng{authorfullhash}{26230a2ace0cde36664849662ebf7d53}
+      \field{labelalpha}{Nor06}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introducing BDD}
+      \field{urlday}{6}
+      \field{urlmonth}{4}
+      \field{urlyear}{2022}
+      \field{year}{2006}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://dannorth.net/introducing-bdd/
+      \endverb
+      \verb{url}
+      \verb http://dannorth.net/introducing-bdd/
+      \endverb
+    \endentry
+    \entry{PagePostgres}{online}{}
+      \name{author}{1}{}{%
+        {{hash=4bf2dba45c6c149574f59f8aad14d429}{%
+           family={Page},
+           familyi={P\bibinitperiod},
+           given={Dave},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{4bf2dba45c6c149574f59f8aad14d429}
+      \strng{fullhash}{4bf2dba45c6c149574f59f8aad14d429}
+      \strng{bibnamehash}{4bf2dba45c6c149574f59f8aad14d429}
+      \strng{authorbibnamehash}{4bf2dba45c6c149574f59f8aad14d429}
+      \strng{authornamehash}{4bf2dba45c6c149574f59f8aad14d429}
+      \strng{authorfullhash}{4bf2dba45c6c149574f59f8aad14d429}
+      \field{labelalpha}{Pag07}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Project name - statement from the core team}
+      \field{urlday}{29}
+      \field{urlmonth}{3}
+      \field{urlyear}{2022}
+      \field{year}{2007}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.postgresql.org/message-id/473D7617.6070900@postgresql.org
+      \endverb
+      \verb{url}
+      \verb https://www.postgresql.org/message-id/473D7617.6070900@postgresql.org
+      \endverb
+    \endentry
+    \entry{rother2009toyota}{book}{}
+      \name{author}{1}{}{%
+        {{hash=19d922a12e032fd24e19bc8188128b26}{%
+           family={Rother},
+           familyi={R\bibinitperiod},
+           given={Mike},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {McGraw-Hill Education}%
+      }
+      \strng{namehash}{19d922a12e032fd24e19bc8188128b26}
+      \strng{fullhash}{19d922a12e032fd24e19bc8188128b26}
+      \strng{bibnamehash}{19d922a12e032fd24e19bc8188128b26}
+      \strng{authorbibnamehash}{19d922a12e032fd24e19bc8188128b26}
+      \strng{authornamehash}{19d922a12e032fd24e19bc8188128b26}
+      \strng{authorfullhash}{19d922a12e032fd24e19bc8188128b26}
+      \field{labelalpha}{Rot09}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780071639859}
+      \field{title}{Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results}
+      \field{year}{2009}
+    \endentry
+    \entry{Hewitt2010}{online}{}
+      \name{author}{1}{}{%
+        {{hash=1c0e112479c525f05924aba5fa22ac9d}{%
+           family={Hewitt},
+           familyi={H\bibinitperiod},
+           given={Carl},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{1c0e112479c525f05924aba5fa22ac9d}
+      \strng{fullhash}{1c0e112479c525f05924aba5fa22ac9d}
+      \strng{bibnamehash}{1c0e112479c525f05924aba5fa22ac9d}
+      \strng{authorbibnamehash}{1c0e112479c525f05924aba5fa22ac9d}
+      \strng{authornamehash}{1c0e112479c525f05924aba5fa22ac9d}
+      \strng{authorfullhash}{1c0e112479c525f05924aba5fa22ac9d}
+      \field{extraname}{2}
+      \field{labelalpha}{Hew10}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Actor Model of Computation: Scalable Robust Information Systems}
+      \field{urlday}{11}
+      \field{urlmonth}{4}
+      \field{urlyear}{2022}
+      \field{year}{2010}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://arxiv.org/pdf/1008.1459.pdf
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/pdf/1008.1459.pdf
+      \endverb
+    \endentry
+    \entry{Fowler2011}{online}{}
+      \name{author}{1}{}{%
+        {{hash=312ac886938a9b2be4f8eb607567fe4c}{%
+           family={Fowler},
+           familyi={F\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{fullhash}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{bibnamehash}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{authorbibnamehash}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{authornamehash}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{authorfullhash}{312ac886938a9b2be4f8eb607567fe4c}
+      \field{extraname}{2}
+      \field{labelalpha}{Fow11}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{CQRS}
+      \field{urlday}{1}
+      \field{urlmonth}{4}
+      \field{urlyear}{2022}
+      \field{year}{2011}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.martinfowler.com/bliki/CQRS.html
+      \endverb
+      \verb{url}
+      \verb https://www.martinfowler.com/bliki/CQRS.html
+      \endverb
+    \endentry
+    \entry{ries2011lean}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3ae634b261ee7bc5f734840abf4408e1}{%
+           family={Ries},
+           familyi={R\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Crown}%
+      }
+      \strng{namehash}{3ae634b261ee7bc5f734840abf4408e1}
+      \strng{fullhash}{3ae634b261ee7bc5f734840abf4408e1}
+      \strng{bibnamehash}{3ae634b261ee7bc5f734840abf4408e1}
+      \strng{authorbibnamehash}{3ae634b261ee7bc5f734840abf4408e1}
+      \strng{authornamehash}{3ae634b261ee7bc5f734840abf4408e1}
+      \strng{authorfullhash}{3ae634b261ee7bc5f734840abf4408e1}
+      \field{labelalpha}{Rie11}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780307887917}
+      \field{title}{The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses}
+      \field{year}{2011}
+      \verb{urlraw}
+      \verb https://books.google.de/books?id=tvfyz-4JILwC
+      \endverb
+      \verb{url}
+      \verb https://books.google.de/books?id=tvfyz-4JILwC
+      \endverb
+    \endentry
+    \entry{fitzpatrick2013mom}{book}{}
+      \name{author}{1}{}{%
+        {{hash=26aa692dc176c9bb1aa992b96e30fc47}{%
+           family={Fitzpatrick},
+           familyi={F\bibinitperiod},
+           given={Rob},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {CreateSpace Independent Publishing Platform}%
+      }
+      \strng{namehash}{26aa692dc176c9bb1aa992b96e30fc47}
+      \strng{fullhash}{26aa692dc176c9bb1aa992b96e30fc47}
+      \strng{bibnamehash}{26aa692dc176c9bb1aa992b96e30fc47}
+      \strng{authorbibnamehash}{26aa692dc176c9bb1aa992b96e30fc47}
+      \strng{authornamehash}{26aa692dc176c9bb1aa992b96e30fc47}
+      \strng{authorfullhash}{26aa692dc176c9bb1aa992b96e30fc47}
+      \field{labelalpha}{Fit13}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781492180746}
+      \field{series}{A foundercentric.com book}
+      \field{title}{The Mom Test: How to talk to customers \& learn if your business is a good idea when everyone is lying to you}
+      \field{year}{2013}
+    \endentry
+    \entry{Sledzik2013}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1a8d61b6525c78a933d6b50b3ce58ea2}{%
+           family={Śledzik},
+           familyi={Ś\bibinitperiod},
+           given={Karol},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{1a8d61b6525c78a933d6b50b3ce58ea2}
+      \strng{fullhash}{1a8d61b6525c78a933d6b50b3ce58ea2}
+      \strng{bibnamehash}{1a8d61b6525c78a933d6b50b3ce58ea2}
+      \strng{authorbibnamehash}{1a8d61b6525c78a933d6b50b3ce58ea2}
+      \strng{authornamehash}{1a8d61b6525c78a933d6b50b3ce58ea2}
+      \strng{authorfullhash}{1a8d61b6525c78a933d6b50b3ce58ea2}
+      \field{labelalpha}{Śle13}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9788055407364}
+      \field{title}{Schumpeter’s View on Innovation and Entrepreneurship}
+      \field{year}{2013}
+    \endentry
+    \entry{ReactiveManifesto}{online}{}
+      \name{author}{1}{}{%
+        {{hash=34a387b77dd536321c51b7b3a8b08374}{%
+           family={Bonér},
+           familyi={B\bibinitperiod},
+           given={Jonas/Dave\bibnamedelimb Farley/Roland\bibnamedelimb Kuhn/Martin\bibnamedelima Thompson},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{34a387b77dd536321c51b7b3a8b08374}
+      \strng{fullhash}{34a387b77dd536321c51b7b3a8b08374}
+      \strng{bibnamehash}{34a387b77dd536321c51b7b3a8b08374}
+      \strng{authorbibnamehash}{34a387b77dd536321c51b7b3a8b08374}
+      \strng{authornamehash}{34a387b77dd536321c51b7b3a8b08374}
+      \strng{authorfullhash}{34a387b77dd536321c51b7b3a8b08374}
+      \field{labelalpha}{Bon14}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Das Reaktive Manifest}
+      \field{urlday}{8}
+      \field{urlmonth}{2}
+      \field{urlyear}{2022}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.reactivemanifesto.org/de
+      \endverb
+      \verb{url}
+      \verb https://www.reactivemanifesto.org/de
+      \endverb
+    \endentry
+    \entry{Eyal2014}{book}{}
+      \name{author}{1}{}{%
+        {{hash=16ceb85258b9422cf9d0cb8e9f279202}{%
+           family={Eyal},
+           familyi={E\bibinitperiod},
+           given={Nir},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Redline Verlag}%
+      }
+      \strng{namehash}{16ceb85258b9422cf9d0cb8e9f279202}
+      \strng{fullhash}{16ceb85258b9422cf9d0cb8e9f279202}
+      \strng{bibnamehash}{16ceb85258b9422cf9d0cb8e9f279202}
+      \strng{authorbibnamehash}{16ceb85258b9422cf9d0cb8e9f279202}
+      \strng{authornamehash}{16ceb85258b9422cf9d0cb8e9f279202}
+      \strng{authorfullhash}{16ceb85258b9422cf9d0cb8e9f279202}
+      \field{labelalpha}{Eya14}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Wie Sie Produkte erschaffen, die süchtig machen}
+      \field{year}{2014}
+    \endentry
+    \entry{RedhatServerless}{online}{}
+      \name{author}{1}{}{%
+        {{hash=c3f92e8a3f15dc7f7dc522bdbaeb48c5}{%
+           family={Redhat},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{c3f92e8a3f15dc7f7dc522bdbaeb48c5}
+      \strng{fullhash}{c3f92e8a3f15dc7f7dc522bdbaeb48c5}
+      \strng{bibnamehash}{c3f92e8a3f15dc7f7dc522bdbaeb48c5}
+      \strng{authorbibnamehash}{c3f92e8a3f15dc7f7dc522bdbaeb48c5}
+      \strng{authornamehash}{c3f92e8a3f15dc7f7dc522bdbaeb48c5}
+      \strng{authorfullhash}{c3f92e8a3f15dc7f7dc522bdbaeb48c5}
+      \field{labelalpha}{Red17}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Was ist Serverless?}
+      \field{urlday}{2}
+      \field{urlmonth}{2}
+      \field{urlyear}{2022}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.redhat.com/de/topics/cloud-native-apps/what-is-serverless
+      \endverb
+      \verb{url}
+      \verb https://www.redhat.com/de/topics/cloud-native-apps/what-is-serverless
+      \endverb
+    \endentry
+    \entry{Harris2018}{online}{}
+      \name{author}{1}{}{%
+        {{hash=4d32e78bf4418cc07f3592d04bd0e407}{%
+           family={Harris},
+           familyi={H\bibinitperiod},
+           given={Rich},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{4d32e78bf4418cc07f3592d04bd0e407}
+      \strng{fullhash}{4d32e78bf4418cc07f3592d04bd0e407}
+      \strng{bibnamehash}{4d32e78bf4418cc07f3592d04bd0e407}
+      \strng{authorbibnamehash}{4d32e78bf4418cc07f3592d04bd0e407}
+      \strng{authornamehash}{4d32e78bf4418cc07f3592d04bd0e407}
+      \strng{authorfullhash}{4d32e78bf4418cc07f3592d04bd0e407}
+      \field{extraname}{1}
+      \field{labelalpha}{Har18}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Virtual DOM is pure overhead}
+      \field{urlday}{6}
+      \field{urlmonth}{2}
+      \field{urlyear}{2022}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://svelte.dev/blog/virtual-dom-is-pure-overhead
+      \endverb
+      \verb{url}
+      \verb https://svelte.dev/blog/virtual-dom-is-pure-overhead
+      \endverb
+    \endentry
+    \entry{Meulen2018}{online}{}
+      \name{author}{1}{}{%
+        {{hash=e33b1c2cc40739e6911b06fe2cd86e0b}{%
+           family={Meulen},
+           familyi={M\bibinitperiod},
+           given={Rob\bibnamedelimb van\bibnamedelima der},
+           giveni={R\bibinitperiod\bibinitdelim v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+      }
+      \strng{namehash}{e33b1c2cc40739e6911b06fe2cd86e0b}
+      \strng{fullhash}{e33b1c2cc40739e6911b06fe2cd86e0b}
+      \strng{bibnamehash}{e33b1c2cc40739e6911b06fe2cd86e0b}
+      \strng{authorbibnamehash}{e33b1c2cc40739e6911b06fe2cd86e0b}
+      \strng{authornamehash}{e33b1c2cc40739e6911b06fe2cd86e0b}
+      \strng{authorfullhash}{e33b1c2cc40739e6911b06fe2cd86e0b}
+      \field{labelalpha}{Meu18}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What Edge Computing Means For Infrastructure And Operations Leaders}
+      \field{urlday}{4}
+      \field{urlmonth}{4}
+      \field{urlyear}{2022}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.gartner.com/smarterwithgartner/what-edge-computing-means-for-infrastructure-and-operations-leaders
+      \endverb
+      \verb{url}
+      \verb https://www.gartner.com/smarterwithgartner/what-edge-computing-means-for-infrastructure-and-operations-leaders
+      \endverb
+    \endentry
+    \entry{Harris2021}{online}{}
+      \name{author}{1}{}{%
+        {{hash=4d32e78bf4418cc07f3592d04bd0e407}{%
+           family={Harris},
+           familyi={H\bibinitperiod},
+           given={Rich},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{4d32e78bf4418cc07f3592d04bd0e407}
+      \strng{fullhash}{4d32e78bf4418cc07f3592d04bd0e407}
+      \strng{bibnamehash}{4d32e78bf4418cc07f3592d04bd0e407}
+      \strng{authorbibnamehash}{4d32e78bf4418cc07f3592d04bd0e407}
+      \strng{authornamehash}{4d32e78bf4418cc07f3592d04bd0e407}
+      \strng{authorfullhash}{4d32e78bf4418cc07f3592d04bd0e407}
+      \field{extraname}{2}
+      \field{labelalpha}{Har21}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Jamstack Conf Session: Transitional Apps}
+      \field{urlday}{7}
+      \field{urlmonth}{2}
+      \field{urlyear}{2022}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://jamstackconf.com/talk/c17544108e71/transitional-apps/
+      \endverb
+      \verb{url}
+      \verb https://jamstackconf.com/talk/c17544108e71/transitional-apps/
+      \endverb
+    \endentry
+    \entry{Coursera2022quiz}{online}{}
+      \name{author}{1}{}{%
+        {{hash=ecc406695c56aa12c0577b31f8cf92de}{%
+           family={{Coursera Inc.}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{ecc406695c56aa12c0577b31f8cf92de}
+      \strng{fullhash}{ecc406695c56aa12c0577b31f8cf92de}
+      \strng{bibnamehash}{ecc406695c56aa12c0577b31f8cf92de}
+      \strng{authorbibnamehash}{ecc406695c56aa12c0577b31f8cf92de}
+      \strng{authornamehash}{ecc406695c56aa12c0577b31f8cf92de}
+      \strng{authorfullhash}{ecc406695c56aa12c0577b31f8cf92de}
+      \field{extraname}{1}
+      \field{labelalpha}{Cou22}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extraalpha}{1}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Take quizzes}
+      \field{urlday}{5}
+      \field{urlmonth}{4}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.coursera.support/s/article/209818703-Take-quizzes?language=en_US
+      \endverb
+      \verb{url}
+      \verb https://www.coursera.support/s/article/209818703-Take-quizzes?language=en_US
+      \endverb
+    \endentry
+    \entry{Coursera2022peer}{online}{}
+      \name{author}{1}{}{%
+        {{hash=ecc406695c56aa12c0577b31f8cf92de}{%
+           family={{Coursera Inc.}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{ecc406695c56aa12c0577b31f8cf92de}
+      \strng{fullhash}{ecc406695c56aa12c0577b31f8cf92de}
+      \strng{bibnamehash}{ecc406695c56aa12c0577b31f8cf92de}
+      \strng{authorbibnamehash}{ecc406695c56aa12c0577b31f8cf92de}
+      \strng{authornamehash}{ecc406695c56aa12c0577b31f8cf92de}
+      \strng{authorfullhash}{ecc406695c56aa12c0577b31f8cf92de}
+      \field{extraname}{2}
+      \field{labelalpha}{Cou22}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extraalpha}{2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Write Peer Reviews}
+      \field{urlday}{5}
+      \field{urlmonth}{4}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.coursera.support/s/article/209818803-Write-peer-reviews?language=en_US
+      \endverb
+      \verb{url}
+      \verb https://www.coursera.support/s/article/209818803-Write-peer-reviews?language=en_US
+      \endverb
+    \endentry
+    \entry{Geier2022}{online}{}
+      \name{author}{1}{}{%
+        {{hash=802e8b1ad3046676118f7bcc05034d65}{%
+           family={Geier},
+           familyi={G\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{802e8b1ad3046676118f7bcc05034d65}
+      \strng{fullhash}{802e8b1ad3046676118f7bcc05034d65}
+      \strng{bibnamehash}{802e8b1ad3046676118f7bcc05034d65}
+      \strng{authorbibnamehash}{802e8b1ad3046676118f7bcc05034d65}
+      \strng{authornamehash}{802e8b1ad3046676118f7bcc05034d65}
+      \strng{authorfullhash}{802e8b1ad3046676118f7bcc05034d65}
+      \field{labelalpha}{Gei22}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Coursera Erfahrungen | Welche Zertifikate und Kosten?}
+      \field{urlday}{5}
+      \field{urlmonth}{4}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.e-learning-plattformen.de/coursera-erfahrungen-welche-zertifikate-gibt-es/
+      \endverb
+      \verb{url}
+      \verb https://www.e-learning-plattformen.de/coursera-erfahrungen-welche-zertifikate-gibt-es/
+      \endverb
+    \endentry
+    \entry{Parameshwaren2022}{online}{}
+      \name{author}{1}{}{%
+        {{hash=637ff667b412e1988d0ba589b7c415a4}{%
+           family={Parameshwaran},
+           familyi={P\bibinitperiod},
+           given={Inian},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{637ff667b412e1988d0ba589b7c415a4}
+      \strng{fullhash}{637ff667b412e1988d0ba589b7c415a4}
+      \strng{bibnamehash}{637ff667b412e1988d0ba589b7c415a4}
+      \strng{authorbibnamehash}{637ff667b412e1988d0ba589b7c415a4}
+      \strng{authornamehash}{637ff667b412e1988d0ba589b7c415a4}
+      \strng{authorfullhash}{637ff667b412e1988d0ba589b7c415a4}
+      \field{labelalpha}{Par22}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Edge Functions are now available in Supabase}
+      \field{urlday}{4}
+      \field{urlmonth}{4}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://supabase.com/blog/2022/03/31/supabase-edge-functions
+      \endverb
+      \verb{url}
+      \verb https://supabase.com/blog/2022/03/31/supabase-edge-functions
+      \endverb
+    \endentry
+    \entry{Dorsch2022}{online}{}
+      \name{author}{1}{}{%
+        {{hash=b07d240b3a60dd1fcf3b11ad70668b9f}{%
+           family={Prof.\bibnamedelimi em.\bibnamedelimi Dr.\bibnamedelimi Kubinger},
+           familyi={P\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim K\bibinitperiod},
+           given={Klaus\bibnamedelima D.},
+           giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{b07d240b3a60dd1fcf3b11ad70668b9f}
+      \strng{fullhash}{b07d240b3a60dd1fcf3b11ad70668b9f}
+      \strng{bibnamehash}{b07d240b3a60dd1fcf3b11ad70668b9f}
+      \strng{authorbibnamehash}{b07d240b3a60dd1fcf3b11ad70668b9f}
+      \strng{authornamehash}{b07d240b3a60dd1fcf3b11ad70668b9f}
+      \strng{authorfullhash}{b07d240b3a60dd1fcf3b11ad70668b9f}
+      \field{labelalpha}{Pro22}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Stichwort: Multiple-Choice Antwortformat}
+      \field{urlday}{25}
+      \field{urlmonth}{4}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://dorsch.hogrefe.com/stichwort/multiple-choice-antwortformat/
+      \endverb
+      \verb{url}
+      \verb https://dorsch.hogrefe.com/stichwort/multiple-choice-antwortformat/
+      \endverb
+    \endentry
+    \entry{Schaeff2022}{online}{}
+      \name{author}{1}{}{%
+        {{hash=ed7c7353e924835897a24a21e467f246}{%
+           family={Schaeff},
+           familyi={S\bibinitperiod},
+           given={Thor},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{ed7c7353e924835897a24a21e467f246}
+      \strng{fullhash}{ed7c7353e924835897a24a21e467f246}
+      \strng{bibnamehash}{ed7c7353e924835897a24a21e467f246}
+      \strng{authorbibnamehash}{ed7c7353e924835897a24a21e467f246}
+      \strng{authornamehash}{ed7c7353e924835897a24a21e467f246}
+      \strng{authorfullhash}{ed7c7353e924835897a24a21e467f246}
+      \field{labelalpha}{Sch22}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Community Day}
+      \field{urlday}{4}
+      \field{urlmonth}{4}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://supabase.com/blog/2022/03/28/community-day
+      \endverb
+      \verb{url}
+      \verb https://supabase.com/blog/2022/03/28/community-day
+      \endverb
+    \endentry
+    \entry{SupabaseFunctions}{online}{}
+      \name{author}{1}{}{%
+        {{hash=af07a053f31f1c94fcf389327c68f6dd}{%
+           family={Supabase},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{af07a053f31f1c94fcf389327c68f6dd}
+      \strng{fullhash}{af07a053f31f1c94fcf389327c68f6dd}
+      \strng{bibnamehash}{af07a053f31f1c94fcf389327c68f6dd}
+      \strng{authorbibnamehash}{af07a053f31f1c94fcf389327c68f6dd}
+      \strng{authornamehash}{af07a053f31f1c94fcf389327c68f6dd}
+      \strng{authorfullhash}{af07a053f31f1c94fcf389327c68f6dd}
+      \field{extraname}{1}
+      \field{labelalpha}{Sup22}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extraalpha}{1}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Supabase: Functions}
+      \field{urlday}{29}
+      \field{urlmonth}{3}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://supabase.com/docs/guides/database/functions
+      \endverb
+      \verb{url}
+      \verb https://supabase.com/docs/guides/database/functions
+      \endverb
+    \endentry
+    \entry{supabase}{online}{}
+      \name{author}{1}{}{%
+        {{hash=af07a053f31f1c94fcf389327c68f6dd}{%
+           family={Supabase},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{af07a053f31f1c94fcf389327c68f6dd}
+      \strng{fullhash}{af07a053f31f1c94fcf389327c68f6dd}
+      \strng{bibnamehash}{af07a053f31f1c94fcf389327c68f6dd}
+      \strng{authorbibnamehash}{af07a053f31f1c94fcf389327c68f6dd}
+      \strng{authornamehash}{af07a053f31f1c94fcf389327c68f6dd}
+      \strng{authorfullhash}{af07a053f31f1c94fcf389327c68f6dd}
+      \field{extraname}{2}
+      \field{labelalpha}{Sup22}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extraalpha}{2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Supabase/README.de.md}
+      \field{urlday}{16}
+      \field{urlmonth}{2}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://github.com/supabase/supabase/blob/master/i18n/README.de.md
+      \endverb
+      \verb{url}
+      \verb https://github.com/supabase/supabase/blob/master/i18n/README.de.md
+      \endverb
+    \endentry
+    \entry{svelteReactive}{online}{}
+      \name{author}{1}{}{%
+        {{hash=3f37ceb3e7787681158e016284b19a78}{%
+           family={Svelte},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{3f37ceb3e7787681158e016284b19a78}
+      \strng{fullhash}{3f37ceb3e7787681158e016284b19a78}
+      \strng{bibnamehash}{3f37ceb3e7787681158e016284b19a78}
+      \strng{authorbibnamehash}{3f37ceb3e7787681158e016284b19a78}
+      \strng{authornamehash}{3f37ceb3e7787681158e016284b19a78}
+      \strng{authorfullhash}{3f37ceb3e7787681158e016284b19a78}
+      \field{labelalpha}{Sve22}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Svelte Tutorial, Reactivity / Declarations}
+      \field{urlday}{7}
+      \field{urlmonth}{2}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://svelte.dev/tutorial/reactive-declarations
+      \endverb
+      \verb{url}
+      \verb https://svelte.dev/tutorial/reactive-declarations
+      \endverb
+    \endentry
+    \entry{PostgresAbout}{online}{}
+      \name{author}{1}{}{%
+        {{hash=917cf2b2062aec0c604dbecc106084cd}{%
+           family={{The PostgreSQL Global Development Group}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{917cf2b2062aec0c604dbecc106084cd}
+      \strng{fullhash}{917cf2b2062aec0c604dbecc106084cd}
+      \strng{bibnamehash}{917cf2b2062aec0c604dbecc106084cd}
+      \strng{authorbibnamehash}{917cf2b2062aec0c604dbecc106084cd}
+      \strng{authornamehash}{917cf2b2062aec0c604dbecc106084cd}
+      \strng{authorfullhash}{917cf2b2062aec0c604dbecc106084cd}
+      \field{labelalpha}{The22}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{PostgreSQL: About}
+      \field{urlday}{29}
+      \field{urlmonth}{3}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.postgresql.org/about/
+      \endverb
+      \verb{url}
+      \verb https://www.postgresql.org/about/
+      \endverb
+    \endentry
+    \entry{Udemy2022}{online}{}
+      \name{author}{1}{}{%
+        {{hash=ce42f3cc2ce55d9011ac5160acc54d7e}{%
+           family={{Udemy, Inc.}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{ce42f3cc2ce55d9011ac5160acc54d7e}
+      \strng{fullhash}{ce42f3cc2ce55d9011ac5160acc54d7e}
+      \strng{bibnamehash}{ce42f3cc2ce55d9011ac5160acc54d7e}
+      \strng{authorbibnamehash}{ce42f3cc2ce55d9011ac5160acc54d7e}
+      \strng{authornamehash}{ce42f3cc2ce55d9011ac5160acc54d7e}
+      \strng{authorfullhash}{ce42f3cc2ce55d9011ac5160acc54d7e}
+      \field{labelalpha}{Ude22}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Instructor Revenue Share}
+      \field{urlday}{12}
+      \field{urlmonth}{4}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://support.udemy.com/hc/en-us/articles/229605008-Instructor-revenue-share
+      \endverb
+      \verb{url}
+      \verb https://support.udemy.com/hc/en-us/articles/229605008-Instructor-revenue-share
+      \endverb
+    \endentry
+    \entry{Wearstler2022}{online}{}
+      \name{author}{1}{}{%
+        {{hash=0ca06d29771f32a85189a5fc481f44d9}{%
+           family={Wearstler},
+           familyi={W\bibinitperiod},
+           given={Kelly},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{0ca06d29771f32a85189a5fc481f44d9}
+      \strng{fullhash}{0ca06d29771f32a85189a5fc481f44d9}
+      \strng{bibnamehash}{0ca06d29771f32a85189a5fc481f44d9}
+      \strng{authorbibnamehash}{0ca06d29771f32a85189a5fc481f44d9}
+      \strng{authornamehash}{0ca06d29771f32a85189a5fc481f44d9}
+      \strng{authorfullhash}{0ca06d29771f32a85189a5fc481f44d9}
+      \field{labelalpha}{Wea22}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Transitional Design Guide: Characteristics of Transitional Design}
+      \field{urlday}{7}
+      \field{urlmonth}{2}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://do6eyjibs3jse.cloudfront.net/articles/transitional-design-guide#4-characteristics-of-transitional-design
+      \endverb
+      \verb{url}
+      \verb https://do6eyjibs3jse.cloudfront.net/articles/transitional-design-guide#4-characteristics-of-transitional-design
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

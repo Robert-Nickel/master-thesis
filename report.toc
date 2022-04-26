@@ -1,0 +1,105 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {chapter}{\numberline {1}Einleitung}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Lernen durch Dialog}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Ein Beispiel}{3}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Der Lehrauftrag}{4}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Der Evaluationsauftrag}{4}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Die Vision}{5}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Zielgruppen}{6}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Professoren, Lehrer und Kursautoren}{6}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Studenten, Schüler und Kursteilnehmer}{6}{subsection.2.5.2}%
+\contentsline {section}{\numberline {2.6}Die Idee}{7}{section.2.6}%
+\contentsline {subsection}{\numberline {2.6.1}Offene Fragen}{7}{subsection.2.6.1}%
+\contentsline {subsection}{\numberline {2.6.2}Antworten auf offene Fragen}{8}{subsection.2.6.2}%
+\contentsline {subsection}{\numberline {2.6.3}Feedback}{9}{subsection.2.6.3}%
+\contentsline {subsection}{\numberline {2.6.4}Andere Typen von Lernartefakten}{9}{subsection.2.6.4}%
+\contentsline {subsection}{\numberline {2.6.5}Crowdsourcing}{10}{subsection.2.6.5}%
+\contentsline {subsection}{\numberline {2.6.6}Formatives und summatives Assessment}{10}{subsection.2.6.6}%
+\contentsline {chapter}{\numberline {3}Methodik}{13}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Lean Startup}{13}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Die Bauen-Messen-Lernen Schleife}{13}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Minimal funktionsfähiges Produkt (MVP)}{14}{subsection.3.1.2}%
+\contentsline {section}{\numberline {3.2}The Mom Test}{15}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Anforderungen an die Werkzeuge}{16}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Prinzip der Einfachheit}{17}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Lightbulb Learning als MVP}{17}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}NoCSS Framework}{17}{subsection.3.3.3}%
+\contentsline {chapter}{\numberline {4}Geschäftsmodelle}{19}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Geschäftsmodell A: Freemium}{19}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Mindelsee-Stipendium}{20}{subsection.4.1.1}%
+\contentsline {section}{\numberline {4.2}Geschäftsmodell B: Affiliates-Programm}{20}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Geschäftsmodell von Udemy}{21}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Tests in Onlinekursen}{21}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Ergänzung um Lightbulb Learning}{21}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}Mehrwert I: Steigerung der Lernqualität}{22}{subsection.4.2.4}%
+\contentsline {subsection}{\numberline {4.2.5}Mehrwert II: Evaluationssystem und Zertifikate}{22}{subsection.4.2.5}%
+\contentsline {subsection}{\numberline {4.2.6}Mehrwert III: Zusätzliche Einnahmequelle}{23}{subsection.4.2.6}%
+\contentsline {subsection}{\numberline {4.2.7}Marketing und Vertrieb}{23}{subsection.4.2.7}%
+\contentsline {chapter}{\numberline {5}Serverless-Technologie}{25}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Was ist Serverless-Technologie?}{25}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Frontend im Kontext von Serverless-Technologie}{26}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Function-as-a-Service (FaaS)}{26}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Reaktive Systeme}{27}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Antwortbereitschaft}{27}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}Widerstandsfähigkeit}{27}{subsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.4.3}Elastizität}{27}{subsection.5.4.3}%
+\contentsline {subsection}{\numberline {5.4.4}Nachrichtenorientiertheit}{28}{subsection.5.4.4}%
+\contentsline {section}{\numberline {5.5}Reaktive Systeme und Serverless-Systeme}{29}{section.5.5}%
+\contentsline {subsection}{\numberline {5.5.1}Gemeinsames Ziel: Antwortbereitschaft}{29}{subsection.5.5.1}%
+\contentsline {subsection}{\numberline {5.5.2}Delegation}{29}{subsection.5.5.2}%
+\contentsline {subsection}{\numberline {5.5.3}FaaS und Elastizität}{30}{subsection.5.5.3}%
+\contentsline {chapter}{\numberline {6}Umsetzung: Lightbulb Learning}{31}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Interviews}{31}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Nutzerinterviews Studenten}{31}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Nutzerinterviews Professoren}{33}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.1.3}Ergebnisse der Interviews}{33}{subsection.6.1.3}%
+\contentsline {section}{\numberline {6.2}Technologie}{34}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Supabase}{35}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Vergleich: Supabase und Firebase}{35}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}Relationale Datenbanken}{36}{subsection.6.3.2}%
+\contentsline {subsection}{\numberline {6.3.3}PostgreSQL (alias Postgres)}{36}{subsection.6.3.3}%
+\contentsline {subsection}{\numberline {6.3.4}Row-Level-Security}{37}{subsection.6.3.4}%
+\contentsline {subsection}{\numberline {6.3.5}PostgreSQL Functions}{37}{subsection.6.3.5}%
+\contentsline {subsection}{\numberline {6.3.6}PostgREST}{39}{subsection.6.3.6}%
+\contentsline {section}{\numberline {6.4}Web Applikation mit SvelteKit}{40}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}SvelteKit und Svelte}{40}{subsection.6.4.1}%
+\contentsline {subsection}{\numberline {6.4.2}Multi-Page Apps (MPAs)}{41}{subsection.6.4.2}%
+\contentsline {subsection}{\numberline {6.4.3}Single-Page Apps (SPAs)}{41}{subsection.6.4.3}%
+\contentsline {subsection}{\numberline {6.4.4}Transitional Apps}{42}{subsection.6.4.4}%
+\contentsline {subsection}{\numberline {6.4.5}Adapter, Server-Side Rendering und Hydration}{43}{subsection.6.4.5}%
+\contentsline {section}{\numberline {6.5}TypeScript}{43}{section.6.5}%
+\contentsline {section}{\numberline {6.6}Skalierung der Datenbank}{44}{section.6.6}%
+\contentsline {section}{\numberline {6.7}Testing mit Playwright}{45}{section.6.7}%
+\contentsline {section}{\numberline {6.8}Continuous Deployment Pipeline mit GitHub Actions}{45}{section.6.8}%
+\contentsline {chapter}{\numberline {7}Evaluation}{47}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Experiment: Reaktive Systeme}{47}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Experimente mit AWS Lambda und Scala 3}{49}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Probleme mit AWS Amplify}{49}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {7.2.2}Lambda Kaltstarts bei JVM-basierten Funktionen}{49}{subsection.7.2.2}%
+\contentsline {subsection}{\numberline {7.2.3}FaaS API ist keine Aktoren API}{51}{subsection.7.2.3}%
+\contentsline {subsection}{\numberline {7.2.4}Libraries und Dokumentation für Java}{52}{subsection.7.2.4}%
+\contentsline {section}{\numberline {7.3}Svelte und SvelteKit}{53}{section.7.3}%
+\contentsline {subsection}{\numberline {7.3.1}Intuitive Konzepte}{53}{subsection.7.3.1}%
+\contentsline {subsection}{\numberline {7.3.2}Stolperstein: Serverseitige Authentifizierung}{53}{subsection.7.3.2}%
+\contentsline {subsection}{\numberline {7.3.3}NodeJS Laufzeitumgebung ist kein Browser}{54}{subsection.7.3.3}%
+\contentsline {subsection}{\numberline {7.3.4}PostgreSQL as a Service mit Supabase und lokale Entwicklung}{54}{subsection.7.3.4}%
+\contentsline {subsection}{\numberline {7.3.5}Serverless nur für CRUD-Szenarien?}{55}{subsection.7.3.5}%
+\contentsline {section}{\numberline {7.4}Serverless-Prinzipien}{55}{section.7.4}%
+\contentsline {chapter}{\numberline {8}Fazit}{57}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Lightbulb Learning, ein reaktives System?}{57}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Zusammenhang zwischen Lean Startup und Serverless-Technologie}{58}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Zusammenhang zwischen agiler Entwicklung und Serverless-Technologie}{58}{section.8.3}%
+\contentsline {section}{\numberline {8.4}Ist Serverless-Technologie die Zukunft der Apps?}{59}{section.8.4}%
+\contentsline {section}{\numberline {8.5}Lightbulb Learning, eine Innovation?}{59}{section.8.5}%
+\contentsline {subsection}{\numberline {8.5.1}Produktinnovation}{60}{subsection.8.5.1}%
+\contentsline {subsection}{\numberline {8.5.2}Verfahrensinnovation}{60}{subsection.8.5.2}%
+\contentsline {chapter}{\numberline {9}Ausblick}{63}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Technologischer Ausblick}{63}{section.9.1}%
+\contentsline {subsection}{\numberline {9.1.1}Supabase Edge Functions mit Deno Deploy}{63}{subsection.9.1.1}%
+\contentsline {section}{\numberline {9.2}Fachlicher Ausblick}{64}{section.9.2}%
+\contentsline {subsection}{\numberline {9.2.1}Der Kontext der Nutzung}{64}{subsection.9.2.1}%
+\contentsline {subsection}{\numberline {9.2.2}Das Hakenmodell}{64}{subsection.9.2.2}%
+\contentsline {subsection}{\numberline {9.2.3}Legal-Themen}{66}{subsection.9.2.3}%
+\contentsline {subsection}{\numberline {9.2.4}Lightbulb Learning Zertifikate}{67}{subsection.9.2.4}%
+\contentsline {chapter}{Literatur}{69}{appendix*.14}%
+\contentsfinish 
